@@ -1,2 +1,2 @@
 # exploree
-exploree.xyz website
+exploree.rf.gd website
